@@ -9,7 +9,7 @@
 Assalamualaikum Everyone!  
 **Welcome to My 𝗭𝗜𝗦𝗔𝗡 CHAT BOT Fork!**
 
-![Box-shaped Image]("https://i.imgur.com/ai11602.mp4")
+![https://i.imgur.com/ai11602.mp4]("https://i.imgur.com/ai11602.mp4")
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">ZISAN CHAT BOT</span><br>
