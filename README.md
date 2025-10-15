@@ -9,7 +9,7 @@
 Assalamualaikum Everyone!  
 **Welcome to My 𝗭𝗜𝗦𝗔𝗡 CHAT BOT Fork!**
 
-![Box-shaped Image]("https://i.imgur.com/wbFEdef.mp4")
+![Box-shaped Image]("https://i.imgur.com/ai11602.mp4")
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">ZISAN CHAT BOT</span><br>
@@ -143,8 +143,8 @@ ___
 
 ### 📞 **CONTACT INFORMATION**  
 - **WhatsApp:** **[01931411945](https://wa.me/+8801931411945)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/100004909394963)**  
-- **Messenger:** **[Message](https://m.me/100079776818351)**  
+- **Facebook:** **[Facebook ID](https://facebook.com/61553612065795)**  
+- **Messenger:** **[Message](https://m.me/61553612065795)**  
 
 ### 🚀 **DEVELOPMENT APPROACH**  
 - 💻 **Copy-paste techniques with customizations**  
@@ -177,14 +177,14 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 ## ✨🌟 Special Thanks 🌟✨
 
-- 🚀 **SARPX Cyber Bot Team**  
-- 🧙‍♂️ **SIRAJ (Owner SARPX Cyber Bot Team & 𝗦𝗣𝗔𝗠𝗠𝗜𝗡𝗚🌐𝗔𝗡𝗗 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗🖥️𝗥𝗜𝗦𝗞 𝗣𝗥𝗢𝗧𝗘𝗖𝗧𝗜𝗢𝗡 🖥️𝗫𝗣𝗘𝗥𝗧𝗦)**
-- 🛡️ **ZISAN AHMED (Admin 𝗦𝗣𝗔𝗠𝗠𝗜𝗡𝗚🌐𝗔𝗡𝗗 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗🖥️𝗥𝗜𝗦𝗞 𝗣𝗥𝗢𝗧𝗘𝗖𝗧𝗜𝗢𝗡 🖥️𝗫𝗣𝗘𝗥𝗧𝗦)**
-- 🎓 **ZISAN AHMED (OWNER THIS FORK)** 
+- 🚀 **GREY HAT HACKERS TEAM**  
+- 🧙‍♂️ **ZISAN AHMED (CEO GREY HAT HACKERS TEAM)**
+- 🛡️ **PAKHI CHOWDHURY (OWNER OF GREY HAT HACKERS TEAM)**
+- 🎓 **SPECIAL THANKS TO MY ALL OF STUDENT AND VAI BROTHERS (GREY HAT HACKERS)** 
 
 ---
 
-💖 **Thank You For Choosing 𝗭𝗜𝗦𝗔𝗡 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **THANK YOU FOR CHOOSE TO USE 𝗭𝗜𝗦𝗔𝗡 𝗖𝗵𝗮𝘁 FORK!**  
 🗓️ *Release Date:* `30/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
@@ -202,4 +202,4 @@ Please do not disturb the admin unless you have a special need. Thank you!
   <a href="https://youtube.com/@cyberbotcommunity"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
 
-**I hope you enjoy my fork! Thank you for supporting the cyber chat bot community!**
+**I hope you enjoy my fork! Thank you for supporting GREY HAT HACKERS TEAM!**
